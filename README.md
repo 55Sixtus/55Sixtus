@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building web applications**
 
-- 🌱 I’m currently learning **javaSCript, tailwind, React, typescriptt**
+- 🌱 I’m currently learning **javaSCript, tailwind, React, typescript, and vuejs**
 
 - 👯 I’m looking to collaborate on **project of intrest**
 
